@@ -1,0 +1,91 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\proiecte android\LTCMiner-master1\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from D:\proiecte android\LTCMiner-master1\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from D:\proiecte android\LTCMiner-master1\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from D:\proiecte android\LTCMiner-master1\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from D:\proiecte android\LTCMiner-master1\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from D:\proiecte android\LTCMiner-master1\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from D:\proiecte android\LTCMiner-master1\app\src\main\AndroidManifest.xml:1:1-29:12
+	package
+		ADDED from D:\proiecte android\LTCMiner-master1\app\src\main\AndroidManifest.xml:2:5-33
+		INJECTED from D:\proiecte android\LTCMiner-master1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\proiecte android\LTCMiner-master1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\proiecte android\LTCMiner-master1\app\src\main\AndroidManifest.xml:4:5-32
+		INJECTED from D:\proiecte android\LTCMiner-master1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\proiecte android\LTCMiner-master1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\proiecte android\LTCMiner-master1\app\src\main\AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from D:\proiecte android\LTCMiner-master1\app\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from D:\proiecte android\LTCMiner-master1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\proiecte android\LTCMiner-master1\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from D:\proiecte android\LTCMiner-master1\app\src\main\AndroidManifest.xml:6:5-7:37
+INJECTED from D:\proiecte android\LTCMiner-master1\app\src\main\AndroidManifest.xml:6:5-7:37
+INJECTED from D:\proiecte android\LTCMiner-master1\app\src\main\AndroidManifest.xml:6:5-7:37
+	android:minSdkVersion
+		ADDED from D:\proiecte android\LTCMiner-master1\app\src\main\AndroidManifest.xml:7:9-34
+		INJECTED from D:\proiecte android\LTCMiner-master1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\proiecte android\LTCMiner-master1\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\proiecte android\LTCMiner-master1\app\src\main\AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from D:\proiecte android\LTCMiner-master1\app\src\main\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\proiecte android\LTCMiner-master1\app\src\main\AndroidManifest.xml:9:5-78
+	android:name
+		ADDED from D:\proiecte android\LTCMiner-master1\app\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\proiecte android\LTCMiner-master1\app\src\main\AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from D:\proiecte android\LTCMiner-master1\app\src\main\AndroidManifest.xml:10:22-73
+application
+ADDED from D:\proiecte android\LTCMiner-master1\app\src\main\AndroidManifest.xml:13:5-27:19
+	android:label
+		ADDED from D:\proiecte android\LTCMiner-master1\app\src\main\AndroidManifest.xml:15:9-41
+	android:debuggable
+		ADDED from D:\proiecte android\LTCMiner-master1\app\src\main\AndroidManifest.xml:16:41-67
+	android:icon
+		ADDED from D:\proiecte android\LTCMiner-master1\app\src\main\AndroidManifest.xml:14:9-45
+	android:theme
+		ADDED from D:\proiecte android\LTCMiner-master1\app\src\main\AndroidManifest.xml:16:9-40
+activity#com.ltcminer.miner.MainActivity
+ADDED from D:\proiecte android\LTCMiner-master1\app\src\main\AndroidManifest.xml:17:9-95
+	android:screenOrientation
+		ADDED from D:\proiecte android\LTCMiner-master1\app\src\main\AndroidManifest.xml:17:47-83
+	android:name
+		ADDED from D:\proiecte android\LTCMiner-master1\app\src\main\AndroidManifest.xml:17:19-46
+activity#com.ltcminer.miner.NewsActivity
+ADDED from D:\proiecte android\LTCMiner-master1\app\src\main\AndroidManifest.xml:18:9-95
+	android:screenOrientation
+		ADDED from D:\proiecte android\LTCMiner-master1\app\src\main\AndroidManifest.xml:18:47-83
+	android:name
+		ADDED from D:\proiecte android\LTCMiner-master1\app\src\main\AndroidManifest.xml:18:19-46
+activity#com.ltcminer.miner.SettingsActivity
+ADDED from D:\proiecte android\LTCMiner-master1\app\src\main\AndroidManifest.xml:19:9-99
+	android:screenOrientation
+		ADDED from D:\proiecte android\LTCMiner-master1\app\src\main\AndroidManifest.xml:19:51-87
+	android:name
+		ADDED from D:\proiecte android\LTCMiner-master1\app\src\main\AndroidManifest.xml:19:19-50
+activity#com.ltcminer.miner.StatusActivity
+ADDED from D:\proiecte android\LTCMiner-master1\app\src\main\AndroidManifest.xml:20:9-25:20
+	android:screenOrientation
+		ADDED from D:\proiecte android\LTCMiner-master1\app\src\main\AndroidManifest.xml:20:49-85
+	android:name
+		ADDED from D:\proiecte android\LTCMiner-master1\app\src\main\AndroidManifest.xml:20:19-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\proiecte android\LTCMiner-master1\app\src\main\AndroidManifest.xml:21:13-24:29
+action#android.intent.action.MAIN
+ADDED from D:\proiecte android\LTCMiner-master1\app\src\main\AndroidManifest.xml:22:17-68
+	android:name
+		ADDED from D:\proiecte android\LTCMiner-master1\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\proiecte android\LTCMiner-master1\app\src\main\AndroidManifest.xml:23:17-76
+	android:name
+		ADDED from D:\proiecte android\LTCMiner-master1\app\src\main\AndroidManifest.xml:23:27-74
+service#com.ltcminer.miner.MinerService
+ADDED from D:\proiecte android\LTCMiner-master1\app\src\main\AndroidManifest.xml:26:9-56
+	android:name
+		ADDED from D:\proiecte android\LTCMiner-master1\app\src\main\AndroidManifest.xml:26:18-45

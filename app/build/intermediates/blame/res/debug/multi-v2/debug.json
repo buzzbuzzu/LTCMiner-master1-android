@@ -1,0 +1,118 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\proiecte android\\LTCMiner-master1\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\proiecte android\\LTCMiner-master1\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "5,4,2,3",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "176,133,55,95",
+                        "endColumns": "39,42,39,37",
+                        "endOffsets": "211,171,90,128"
+                    },
+                    "to": {
+                        "startLines": "12,13,14,15",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "347,387,430,470",
+                        "endColumns": "39,42,39,37",
+                        "endOffsets": "382,425,465,503"
+                    }
+                },
+                {
+                    "source": "D:\\proiecte android\\LTCMiner-master1\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endColumns": "58",
+                        "endOffsets": "71"
+                    },
+                    "to": {
+                        "startLines": "48",
+                        "startColumns": "4",
+                        "startOffsets": "2370",
+                        "endColumns": "57",
+                        "endOffsets": "2423"
+                    }
+                },
+                {
+                    "source": "D:\\proiecte android\\LTCMiner-master1\\app\\src\\main\\res\\values\\arrays.xml",
+                    "from": {
+                        "startLines": "2,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,192",
+                        "endLines": "6,11",
+                        "endColumns": "19,19",
+                        "endOffsets": "187,348"
+                    },
+                    "to": {
+                        "startLines": "2,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,189",
+                        "endLines": "6,11",
+                        "endColumns": "19,19",
+                        "endOffsets": "184,342"
+                    }
+                },
+                {
+                    "source": "D:\\proiecte android\\LTCMiner-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,3,12,9,10,8,6,13,11,7,4,21,26,20,19,17,16,24,18,22,25,23,29,15,27,28,14,5,30",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "17,63,568,397,456,343,230,626,513,288,116,1105,1444,1051,996,859,793,1308,929,1174,1367,1243,1616,735,1498,1559,679,167,1694",
+                        "endColumns": "45,52,57,58,56,53,57,52,54,54,50,68,53,53,54,69,65,58,66,68,76,64,77,57,60,56,55,62,50",
+                        "endOffsets": "58,111,621,451,508,392,283,674,563,338,162,1169,1493,1100,1046,924,854,1362,991,1238,1439,1303,1689,788,1554,1611,730,225,1740"
+                    },
+                    "to": {
+                        "startLines": "19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "642,688,741,799,858,915,969,1027,1080,1135,1190,1241,1310,1364,1418,1473,1543,1609,1668,1735,1804,1881,1946,2024,2082,2143,2200,2256,2319",
+                        "endColumns": "45,52,57,58,56,53,57,52,54,54,50,68,53,53,54,69,65,58,66,68,76,64,77,57,60,56,55,62,50",
+                        "endOffsets": "683,736,794,853,910,964,1022,1075,1130,1185,1236,1305,1359,1413,1468,1538,1604,1663,1730,1799,1876,1941,2019,2077,2138,2195,2251,2314,2365"
+                    }
+                },
+                {
+                    "source": "D:\\proiecte android\\LTCMiner-master1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "4,3,2",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "106,61,17",
+                        "endColumns": "44,44,43",
+                        "endOffsets": "146,101,56"
+                    },
+                    "to": {
+                        "startLines": "16,17,18",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "508,553,598",
+                        "endColumns": "44,44,43",
+                        "endOffsets": "548,593,637"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\proiecte android\\LTCMiner-master1\\app\\build\\intermediates\\res\\merged\\debug\\values-large-v4_values-large-v4.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\proiecte android\\LTCMiner-master1\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "from": {
+                        "startLines": "4,3,2",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "107,61,17",
+                        "endColumns": "44,45,43",
+                        "endOffsets": "147,102,56"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,100,146",
+                        "endColumns": "44,45,43",
+                        "endOffsets": "95,141,185"
+                    }
+                }
+            ]
+        }
+    ]
+}
